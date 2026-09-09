@@ -1,0 +1,7 @@
+[
+  "test_emotion_detection.py::test_anger",
+  "test_emotion_detection.py::test_disgust",
+  "test_emotion_detection.py::test_fear",
+  "test_emotion_detection.py::test_joy",
+  "test_emotion_detection.py::test_sadness"
+]
