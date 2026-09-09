@@ -1,3 +1,8 @@
+# Final Project
+
+## Emotion Detection Application
+
+This project is an AI-based Emotion Detection application developed using the Watson NLP library.
 # 🧠 Emotion Detection Application
 
 > **An AI-powered emotion detection system built with IBM Watson NLP, Python, and Flask.**
